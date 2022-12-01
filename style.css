@@ -1,0 +1,49 @@
+body{
+    position: absolute;
+    width: 1920px;
+    height: 8308px;
+    left: 0px;
+    top: 0px;
+    background: #171F37; }
+    
+    .bartop {
+        position: absolute;
+    width: 1920px;
+    height: 109px;
+    left: 0px;
+    top: 0px;
+    
+    background: #101010;
+    }
+    .atas1{
+        position: absolute;
+        width: 1920px;
+        height: 836px;
+        left: 0px;
+        top: 109px;
+        background-image: url('asset/trans-tv-rumpi-cherrybelle-reuni\ 1.png');
+        }
+    .atas2{
+            position: absolute;
+            width: 1920px;
+            height: 8308px;
+            left: 0px;
+            top: 109px;
+            margin-top: 870px;
+            }
+    .atas3{
+        position: absolute;
+        width: 1920px;
+        height: 8308px;
+        left: 0px;
+        top: 109px;
+        margin-top: 1460px;
+        }
+    .atas4{
+            position: absolute;
+            width: 1920px;
+            height: 8308px;
+            left: 0px;
+            top: 109px;
+            margin-top: 1840px;
+            }
